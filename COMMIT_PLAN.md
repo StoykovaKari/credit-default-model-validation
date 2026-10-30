@@ -15,5 +15,3 @@
 13. Add cross-validation sensitivity analysis.
 14. Finalise results, limitations and conclusion.
 15. Add references, self-assessment and README.
-
-Each commit must contain a real change. Uploading all files together creates only one commit.
